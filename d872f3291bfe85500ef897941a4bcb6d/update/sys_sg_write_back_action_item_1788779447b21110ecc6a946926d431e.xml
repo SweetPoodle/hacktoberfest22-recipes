@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>Edit</name>
+        <parameter_screen/>
+        <query_condition table="x_snc_recipe_db_recipe">sys_idSTARTSWITH{{sys_id}}^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="STARTSWITH" or="false" value="{{sys_id}}"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-23 21:31:18</sys_created_on>
+        <sys_id>1788779447b21110ecc6a946926d431e</sys_id>
+        <sys_name>Edit</sys_name>
+        <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_1788779447b21110ecc6a946926d431e</sys_update_name>
+        <table>x_snc_recipe_db_recipe</table>
+        <template>category={{User Submitted Recipes category}}^cook_time={{User Submitted Recipes cook_time}}^directions={{User Submitted Recipes directions}}^favorite={{User Submitted Recipes favorite}}^image={{User Submitted Recipes image}}^information={{User Submitted Recipes information}}^ingredients={{User Submitted Recipes ingredients}}^label_value={{User Submitted Recipes label_value}}^meal_type={{User Submitted Recipes meal_type}}^name={{User Submitted Recipes name}}^notes={{User Submitted Recipes notes}}^number={{User Submitted Recipes number}}^nutrition={{User Submitted Recipes nutrition}}^prep_time={{User Submitted Recipes prep_time}}^rating={{User Submitted Recipes rating}}^EQ</template>
+        <type>update</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=1788779447b21110ecc6a946926d431e"/>
+</record_update>

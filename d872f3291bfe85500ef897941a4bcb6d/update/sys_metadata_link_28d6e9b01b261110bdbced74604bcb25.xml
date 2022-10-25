@@ -12,6 +12,7 @@
         &lt;information&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;&lt;b&gt;Servings&lt;/b&gt;: 4&lt;/li&gt;&lt;li&gt;&lt;b&gt;Prep time&lt;/b&gt;: 14 Hours&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cook time&lt;/b&gt;: 25 Minutes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Total time&lt;/b&gt;: 14 Hours 25 Minutes&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/information&gt;
         &lt;ingredients&gt;&lt;![CDATA[&lt;ul style="margin-bottom: 0cm; margin-top: 0px; list-style-position: inside;"&gt;&lt;li style="margin: 0cm 0cm 0cm 0px; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"&gt;3/4 cup Parboiled Rice (idli-dosa rice)&lt;/li&gt;&lt;li style="margin: 0cm 0cm 0cm 0px; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"&gt;3/4 cup Regular Rice&lt;/li&gt;&lt;li style="margin: 0cm 0cm 0cm 0px; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"&gt;1/2 cup Whole Urad Dal (without skin) or Split Urad Dal (black lentils)&lt;/li&gt;&lt;li style="margin: 0cm 0cm 0cm 0px; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"&gt;1/4 teaspoon Fenugreek Seeds (methi dana)&lt;/li&gt;&lt;li style="margin: 0cm 0cm 0cm 0px; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"&gt;1/2 tablespoon Chana Dal (gram lentils), optional&lt;/li&gt;&lt;li style="margin: 0cm 0cm 0cm 0px; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"&gt;Water, as needed&lt;/li&gt;&lt;li style="margin: 0cm 0cm 0cm 0px; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"&gt;Salt to taste&lt;/li&gt;&lt;li style="margin: 0cm 0cm 8pt 0px; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"&gt;Oil, for shallow frying&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/ingredients&gt;
         &lt;label_value&gt;{"label":"Dosa - A south Indian cuisine (a thin and crispy crepe)", "lines":"2", "size":"md"}&lt;/label_value&gt;
+        &lt;meal_type/&gt;
         &lt;name&gt;Dosa - A south Indian cuisine (a thin and crispy crepe)&lt;/name&gt;
         &lt;notes/&gt;
         &lt;number&gt;RCP0001001&lt;/number&gt;
@@ -33,6 +34,7 @@
         &lt;chunk_size_bytes&gt;700000&lt;/chunk_size_bytes&gt;
         &lt;compressed&gt;true&lt;/compressed&gt;
         &lt;content_type&gt;image/jpeg&lt;/content_type&gt;
+        &lt;encryption_context/&gt;
         &lt;file_name&gt;image&lt;/file_name&gt;
         &lt;hash&gt;7c21df14027eba6bd9c1cc19109c71a637f2d280b7ccd5aa776dbb78f5038ae3&lt;/hash&gt;
         &lt;image_height&gt;459&lt;/image_height&gt;
@@ -73,7 +75,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-12 13:55:52</sys_created_on>
         <sys_id>28d6e9b01b261110bdbced74604bcb25</sys_id>
-        <sys_name>Dosa - A south Indian cuisine (a thin and crispy crepe)</sys_name>
+        <sys_name>&lt;ul style="margin-bottom: 0cm; margin-top: 0px; list-style-position: inside;"&gt;&lt;li style="margin: 0cm 0cm 0cm 0px; line-height: 107%; font-size: 11pt; font-family: Calibri, sans-serif;"&gt;Take all the ingredients to prepare the dosa batter. Rice, urad dal an</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>

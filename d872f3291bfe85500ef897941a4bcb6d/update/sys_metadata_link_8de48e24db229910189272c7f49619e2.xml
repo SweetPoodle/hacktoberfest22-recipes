@@ -12,6 +12,7 @@
         &lt;information&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;&lt;b&gt;Servings&lt;/b&gt;: 4&lt;/li&gt;&lt;li&gt;&lt;b&gt;Prep time&lt;/b&gt;: 5 Minutes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cook time&lt;/b&gt;: 5 Minutes&lt;/li&gt;&lt;li&gt;&lt;b&gt;Total time&lt;/b&gt;: 10 Minutes&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/information&gt;
         &lt;ingredients&gt;&lt;![CDATA[&lt;ul style="list-style-position: inside;"&gt;&lt;li&gt;1 pound large shrimp, deveined (peeled or unpeeled)&lt;/li&gt;&lt;li&gt;3 garlic cloves&lt;/li&gt;&lt;li&gt;½ teaspoon kosher salt&lt;/li&gt;&lt;li&gt;3 tablespoons butter&lt;/li&gt;&lt;li&gt;2 lemon wedges&lt;/li&gt;&lt;li&gt;Fresh cilantro or parsley, for garnish&lt;/li&gt;&lt;/ul&gt;]]&gt;&lt;/ingredients&gt;
         &lt;label_value&gt;{"label":"Garlic Butter Shrimp", "lines":"1", "size":"md"}&lt;/label_value&gt;
+        &lt;meal_type/&gt;
         &lt;name&gt;Garlic Butter Shrimp&lt;/name&gt;
         &lt;notes/&gt;
         &lt;number&gt;RCP0001003&lt;/number&gt;
@@ -74,7 +75,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-11 21:28:46</sys_created_on>
         <sys_id>8de48e24db229910189272c7f49619e2</sys_id>
-        <sys_name>Garlic Butter Shrimp</sys_name>
+        <sys_name>&lt;ol style="list-style-position: inside;"&gt;&lt;li&gt;If frozen, thaw the shrimp (see the notes above).&lt;/li&gt;&lt;li&gt;Mince the garlic.&lt;/li&gt;&lt;li&gt;Pat the shrimp dry.&lt;/li&gt;&lt;li&gt;In a medium bowl, mix the shrimp with the garlic and salt.&lt;/li&gt;&lt;li&gt;In a large skillet, heat the bu</sys_name>
         <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>

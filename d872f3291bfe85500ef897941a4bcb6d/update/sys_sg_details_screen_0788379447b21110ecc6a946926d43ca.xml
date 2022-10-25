@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
+    <sys_sg_details_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="recipe">4f88379447b21110ecc6a946926d43c7</icon>
+        <name>Details</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_details_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-23 21:31:17</sys_created_on>
+        <sys_id>0788379447b21110ecc6a946926d43ca</sys_id>
+        <sys_name>Details</sys_name>
+        <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_update_name>sys_sg_details_screen_0788379447b21110ecc6a946926d43ca</sys_update_name>
+        <table>x_snc_recipe_db_recipe</table>
+    </sys_sg_details_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=0788379447b21110ecc6a946926d43ca"/>
+</record_update>

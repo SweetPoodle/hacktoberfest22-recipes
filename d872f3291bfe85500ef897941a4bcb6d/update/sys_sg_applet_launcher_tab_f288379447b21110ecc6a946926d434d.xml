@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Submit A Recipe">fe88379447b21110ecc6a946926d434b</applet_launcher>
+        <icon display_value="Request">7688379447b21110ecc6a946926d434a</icon>
+        <label>Submit Recipe</label>
+        <roles>x_snc_recipe_db.admin,x_snc_recipe_db.user</roles>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-23 21:31:16</sys_created_on>
+        <sys_id>f288379447b21110ecc6a946926d434d</sys_id>
+        <sys_name>Submit Recipe</sys_name>
+        <sys_package display_value="Recipe DB" source="x_snc_recipe_db">d872f3291bfe85500ef897941a4bcb6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recipe DB">d872f3291bfe85500ef897941a4bcb6d</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_f288379447b21110ecc6a946926d434d</sys_update_name>
+    </sys_sg_applet_launcher_tab>
+</record_update>
